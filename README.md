@@ -1,5 +1,5 @@
-# Guilherme Trindade
 
+# Guilherme Trindade
 **Frontend Developer | React.js, Next.js, TypeScript, JavaScript**
 
 👋 Olá! Eu sou Guilherme Trindade, um desenvolvedor front-end apaixonado por tecnologia e inovação. Tenho uma sólida experiência em desenvolvimento web, com foco em **React.js, Next.js, TypeScript** e **JavaScript**. Meu objetivo é criar soluções eficientes e de alta performance, utilizando as melhores práticas e tecnologias do mercado.
@@ -21,9 +21,9 @@
 
 ## 💼 Projetos Destacados
 
-- **[Veritone Voice](#)**: Como líder técnico, trabalhei no desenvolvimento de uma plataforma de IA para conversão de texto em voz, utilizando **React.js** e **TypeScript**.
-- **[Marketing Website](#)**: Criação de um site em **Next.js** do zero para uma empresa de marketing, destacando a otimização de performance e a experiência do usuário.
-- **[Projeto Benja](#)**: Desenvolvimento de um site com integração de pagamentos, login, e validação por SMS, aplicando **React.js** e **Next.js**.
+- **Marketing Website**: Criação de um site em **Next.js** do zero para uma empresa de marketing, destacando a otimização de performance e a experiência do usuário.
+- **Projeto Benja**: Desenvolvimento de um site com integração de pagamentos, login, e validação por SMS, aplicando **React.js** e **Next.js**.
+- **[Veritone Voice](veritonevoice.com)**: Como líder técnico, trabalhei no desenvolvimento de uma plataforma de IA para conversão de texto em voz, utilizando **React.js** e **TypeScript**.
 
 ## 📚 Aprendizado Contínuo
 
