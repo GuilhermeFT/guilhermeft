@@ -31,7 +31,7 @@ Estou sempre em busca de novas tecnologias e melhores práticas. Atualmente, est
 
 ## 📫 Como me Encontrar
 
-- **LinkedIn**: [Guilherme Trindade](#)
-- **GitHub**: [github.com/guilhermetrindade](#)
-- **Email**: guilhermetrindade@email.com
+- **LinkedIn**: [Guilherme F. Trindade](https://linkedin.com.br/in/guilhermeft)
+- **GitHub**: [github.com/GuilhermeFT](https://github.com/guilhermeft)
+- **Email**: guilhermetrind12@gmail.com
 
